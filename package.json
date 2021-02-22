@@ -1,0 +1,14 @@
+{
+  "name": "volume-upper",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/InkoHX/volume-upper.git",
+  "author": "InkoHX <me@inkohx.dev>",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.4.0",
+    "discord.js": "^12.5.1",
+    "ffmpeg-static": "^4.2.7"
+  }
+}
